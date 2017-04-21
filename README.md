@@ -2,9 +2,7 @@
 
 The MemeMe is result of **UIKit Fundamentals** lesson of **Udacity's iOS Developer Nanodegree** course.
 
-Meme 2.0 is a meme-generating app that enables a user to attach a caption to a picture from their phone. 
-After adding text to an image chosen from the Photo Album or Camera, the user can share it with friends. 
-MemeMe also temporarily stores sent memes which users can browse in a table or a grid.
+Meme 2.0 is a meme-generating app that takes pictures and overlays text to make memes out of friends, family, or pets. Also allows sharing with others via social media or email, and viewing past memes in a table or collection view.
 
 ## Implementation
 
